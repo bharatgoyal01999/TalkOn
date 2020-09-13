@@ -1,0 +1,20 @@
+{
+  "name": "talkon",
+  "displayName": "talkon",
+  
+    
+     
+   "expo": {
+    "name": "TalkOn",
+    
+    "version": "1.0.0",
+    "slug": "TalkOn",
+   
+    "android": {
+      "package": "com.talkon",
+      "versionCode": 1
+    }
+   
+    }
+  
+}
