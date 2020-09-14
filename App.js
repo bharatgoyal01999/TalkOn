@@ -5,11 +5,11 @@ import AppNavigator from "./routes";
 import { NavigationContainer } from '@react-navigation/native';
 import { View,ActivityIndicator, YellowBox , ScrollView } from 'react-native';
 import { firebaseConfig } from './src/config';
-import VideoPicker from './components/VidepPicker'
+// import VideoPicker from './components/VidepPicker'
 
-import Post from './components/Posts/Posts'
-import Auth from './screens/Auth/Auth'
-import Glogin from './components/Auth/SignUp'
+// import Post from './components/Posts/Posts'
+// import Auth from './screens/Auth/Auth'
+// import Glogin from './components/Auth/SignUp'
 
 
 // import { ScrollView } from 'react-native-gesture-handler';
